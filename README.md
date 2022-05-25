@@ -1,2 +1,2 @@
-# alura-front-end-part-I
-Curso alura Front end parte 1
+# alura-front-end
+Curso alura Formação Front end
